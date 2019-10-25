@@ -13,7 +13,7 @@ Material to the publication __Dalitz-plot decomposition for three-body decays__,
  - [Muons angles](figs/mu_with_labs.pdf)
 
 #### Latex diagrams:
- - [General decay](figs/general_decay.pdf)
- - [Lambdac decay](figs/LambdaC_decay.pdf)
- - [B decay](figs/B_decay.pdf)
- - [Penta decay](figs/Penta_decay.pdf)
+ - [General decay](figs/general_decay.pdf) + ([tex](figs/general_decay.pdf))
+ - [Lambdac decay](figs/LambdaC_decay.pdf) + ([tex](figs/LambdaC_decay.pdf))
+ - [B decay](figs/B_decay.pdf) + ([tex](figs/B_decay.pdf))
+ - [Penta decay](figs/Penta_decay.pdf) + ([tex](figs/Penta_decay.pdf))
