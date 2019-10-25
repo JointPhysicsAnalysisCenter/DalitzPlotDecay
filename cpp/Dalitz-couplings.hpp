@@ -1,6 +1,6 @@
 //
 //  Dalitz-couplings.hpp
-//  
+//
 //
 //  Created by Vincent Mathieu on 06/10/2019.
 //
@@ -24,8 +24,6 @@
 //double clebsch(double j1, double j2, double j3, double m1, double m2);
 double lambda(double a, double b, double c);
 double wignerD(double J, double M1, double M2, double z);
-int isfrac(double x);
-long int factorial(int n);
 
 double recoupling_coef(int k, double sk, double IsoHel[4], double CMFhel[4],
                        double spin[4], double mass2[4], double inv[4]);
